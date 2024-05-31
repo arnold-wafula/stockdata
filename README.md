@@ -36,7 +36,8 @@ The report provides a detailed table view of the stock data, including:
 
 The report includes a pie chart that summarizes the sum of item prices by product brand. This visual representation helps to quickly understand the distribution of stock value across different brands.
 
-![Pie Chart]()
+![Pie Chart](![Screenshot 2024-05-31 125837](https://github.com/arnold-wafula/stockdata/assets/8749415/0b1e30c1-3d9d-49b6-b795-567557a227a3)
+)
 
 ## How to Use
 
